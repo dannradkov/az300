@@ -1,3 +1,2 @@
-# azure300
-# az300
-# az300
+Source (PDF ) and PPTX files for AZ300 course
+
